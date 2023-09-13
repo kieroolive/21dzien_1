@@ -1,0 +1,3 @@
+Cz1. Napisz program, który prosi o podanie dwóch liczb i wypisuje na ekranie ich sumê.
+
+Cz2. Program powinien poprosiæ u¿ytkownika o podanie dwóch liczb oddzielonych spacj¹ nastepnie program powinien obliczyæ ich sumê i wypisaæ na ekranie.
